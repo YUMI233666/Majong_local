@@ -1,0 +1,260 @@
+{
+  "userProfile": {
+    "topTags": [
+      {
+        "name": "每项 ",
+        "score": 90
+      },
+      {
+        "name": "极致追求型",
+        "score": 30
+      },
+      {
+        "name": "快乐至上型",
+        "score": 30
+      },
+      {
+        "name": "大心脏稳重型",
+        "score": 20
+      },
+      {
+        "name": "元气活力型",
+        "score": 20
+      }
+    ]
+  },
+  "bestMatch": {
+    "characterId": "福姬",
+    "name": "福姬",
+    "similarity": 43.49,
+    "portrait": "福姬/福姬.png",
+    "stickers": [
+      "福姬/福姬表情包1.png",
+      "福姬/福姬表情包2.png"
+    ],
+    "matchedTags": [
+      {
+        "name": "大心脏稳重型",
+        "userScore": 20,
+        "characterWeight": 99
+      },
+      {
+        "name": "元气活力型",
+        "userScore": 20,
+        "characterWeight": 0
+      },
+      {
+        "name": "毒舌导师型",
+        "userScore": 20,
+        "characterWeight": 90
+      },
+      {
+        "name": "风险规避型",
+        "userScore": 10,
+        "characterWeight": 0
+      },
+      {
+        "name": "胜负至上型",
+        "userScore": 10,
+        "characterWeight": 99
+      },
+      {
+        "name": "吃货至上型",
+        "userScore": 10,
+        "characterWeight": 0
+      },
+      {
+        "name": "执念偏执型",
+        "userScore": 10,
+        "characterWeight": 0
+      },
+      {
+        "name": "忠犬可靠型",
+        "userScore": 10,
+        "characterWeight": 0
+      },
+      {
+        "name": "极致追求型",
+        "userScore": 30,
+        "characterWeight": 95
+      },
+      {
+        "name": "快乐至上型",
+        "userScore": 30,
+        "characterWeight": 85
+      },
+      {
+        "name": "赌徒博弈型",
+        "userScore": 10,
+        "characterWeight": 85
+      },
+      {
+        "name": "玄学信仰型",
+        "userScore": 20,
+        "characterWeight": 80
+      },
+      {
+        "name": "傲娇口是心非型",
+        "userScore": 10,
+        "characterWeight": 70
+      },
+      {
+        "name": "极致浪漫型",
+        "userScore": 10,
+        "characterWeight": 0
+      },
+      {
+        "name": "灵活变通型",
+        "userScore": 10,
+        "characterWeight": 0
+      },
+      {
+        "name": "温柔姐姐型",
+        "userScore": 10,
+        "characterWeight": 75
+      },
+      {
+        "name": "腹黑掌控型",
+        "userScore": 10,
+        "characterWeight": 98
+      },
+      {
+        "name": "飒爽领袖型",
+        "userScore": 20,
+        "characterWeight": 98
+      },
+      {
+        "name": "治愈陪伴型",
+        "userScore": 20,
+        "characterWeight": 0
+      },
+      {
+        "name": "每项 ",
+        "userScore": 90,
+        "characterWeight": 0
+      },
+      {
+        "name": "社交主导型",
+        "userScore": 10,
+        "characterWeight": 0
+      }
+    ]
+  },
+  "ranking": [
+    {
+      "characterId": "福姬",
+      "name": "福姬",
+      "similarity": 43.49
+    },
+    {
+      "characterId": "泽尼娅",
+      "name": "泽尼娅",
+      "similarity": 42.3
+    },
+    {
+      "characterId": "二阶堂美树",
+      "name": "二阶堂美树",
+      "similarity": 39.74
+    },
+    {
+      "characterId": "汪次郎",
+      "name": "汪次郎",
+      "similarity": 37.76
+    },
+    {
+      "characterId": "三上千织",
+      "name": "三上千织",
+      "similarity": 35.52
+    },
+    {
+      "characterId": "姬川响",
+      "name": "姬川响",
+      "similarity": 35.52
+    },
+    {
+      "characterId": "藤田佳奈",
+      "name": "藤田佳奈",
+      "similarity": 33.76
+    },
+    {
+      "characterId": "柚",
+      "name": "柚",
+      "similarity": 33.6
+    },
+    {
+      "characterId": "辉夜姬",
+      "name": "辉夜姬",
+      "similarity": 31.62
+    },
+    {
+      "characterId": "小鸟游雏田",
+      "name": "小鸟游雏田",
+      "similarity": 31.59
+    },
+    {
+      "characterId": "四宫夏生",
+      "name": "四宫夏生",
+      "similarity": 31.55
+    },
+    {
+      "characterId": "一姬",
+      "name": "一姬",
+      "similarity": 29.96
+    },
+    {
+      "characterId": "东城玄音",
+      "name": "东城玄音",
+      "similarity": 29.86
+    },
+    {
+      "characterId": "五十岚阳菜",
+      "name": "五十岚阳菜",
+      "similarity": 28.97
+    },
+    {
+      "characterId": "艾因",
+      "name": "艾因",
+      "similarity": 26.66
+    },
+    {
+      "characterId": "八木唯",
+      "name": "八木唯",
+      "similarity": 25.08
+    },
+    {
+      "characterId": "相原舞",
+      "name": "相原舞",
+      "similarity": 24.98
+    },
+    {
+      "characterId": "琳琅",
+      "name": "琳琅",
+      "similarity": 23.13
+    },
+    {
+      "characterId": "build",
+      "name": "build",
+      "similarity": 0.0
+    },
+    {
+      "characterId": "dist",
+      "name": "dist",
+      "similarity": 0.0
+    },
+    {
+      "characterId": "output",
+      "name": "output",
+      "similarity": 0.0
+    },
+    {
+      "characterId": "__pycache__",
+      "name": "__pycache__",
+      "similarity": 0.0
+    },
+    {
+      "characterId": "西园寺一羽",
+      "name": "西园寺一羽",
+      "similarity": 0.0
+    }
+  ]
+}
